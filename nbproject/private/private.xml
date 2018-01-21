@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/MVC_empty/app/controllers/AdminSmestajController.php</file>
+            <file>file:/C:/xampp/htdocs/MVC_empty/app/views/_global/beforeContent.php</file>
+            <file>file:/C:/xampp/htdocs/MVC_empty/app/controllers/AdminRezervacijaController.php</file>
+            <file>file:/C:/xampp/htdocs/MVC_empty/assets/css/main.css</file>
+            <file>file:/C:/xampp/htdocs/MVC_empty/app/views/_global/beforeContentHead.php</file>
+            <file>file:/C:/xampp/htdocs/MVC_empty/app/controllers/AdminKorisniciController.php</file>
+            <file>file:/C:/xampp/htdocs/MVC_empty/assets/js/main.js</file>
+            <file>file:/C:/xampp/htdocs/MVC_empty/app/controllers/MainController.php</file>
+            <file>file:/C:/xampp/htdocs/MVC_empty/app/views/Main/login.php</file>
+            <file>file:/C:/xampp/htdocs/MVC_empty/app/views/Main/index.php</file>
+            <file>file:/C:/xampp/htdocs/MVC_empty/assets/js/hover-box.js</file>
+            <file>file:/C:/xampp/htdocs/MVC_empty/app/models/SmestajModel.php</file>
+            <file>file:/C:/xampp/htdocs/MVC_empty/app/views/AdminKorisnici/adminStranakor.php</file>
+            <file>file:/C:/xampp/htdocs/MVC_empty/app/views/AdminRezervacija/edit.php</file>
+            <file>file:/C:/xampp/htdocs/MVC_empty/app/views/AdminSmestaj/adminStrana.php</file>
+        </group>
+    </open-files>
+</project-private>
